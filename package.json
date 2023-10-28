@@ -1,0 +1,25 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server-express": "^3.12.1",
+    "axios": "^1.5.1",
+    "body-parser": "^1.20.2",
+    "concurrently": "^8.2.2",
+    "express": "^4.18.2",
+    "graphql": "^16.8.1",
+    "html-pdf": "^3.0.1",
+    "mongoose": "^7.6.3",
+    "node": "^18.4.0",
+    "nodemon": "^3.0.1",
+    "shortid": "^2.2.16"
+  }
+}
