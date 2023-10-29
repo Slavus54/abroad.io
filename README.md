@@ -1,4 +1,4 @@
-# abroad.io
+# Abroad.io
 Emigration platform to share with contacts, context and culture EU countries
 
 ## Area
